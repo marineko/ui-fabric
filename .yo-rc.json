@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "react-preconfiguredentries",
+    "libraryId": "b0a961bb-5887-40e4-829c-86ce6b90391e",
+    "environment": "spo"
+  }
+}
